@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CRVP:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CRVP_jar</output-path>
+    <root id="archive" name="CRVP.jar">
+      <element id="module-output" name="CRVP" />
+    </root>
+  </artifact>
+</component>
